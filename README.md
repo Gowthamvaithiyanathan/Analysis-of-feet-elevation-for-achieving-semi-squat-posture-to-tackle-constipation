@@ -1,0 +1,2 @@
+# Analysis-of-feet-elevation-for-achieving-semi-squat-posture-to-tackle-constipation
+A project in the field of Mechatronics involving LS Dyna simulation using a human dummy.In this project I simply modeled( 3D ) a squat posture environment for the dummy and measured various anthropometric parameters for the two major squat posture namely upper body upright and upper body bending forward to suggest which squat posture is best. 
