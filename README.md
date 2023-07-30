@@ -6,5 +6,5 @@ Feet elevation is the distance between the user’s feet and the ground after us
 Feet elevation is calculated mathematically by considering the height of the user alone on two conditions.
  - Determination of feet elevation with upper body up right.
  - Determination of feet elevation with upper body bending forward.
-   
-- conclusion:After analysing the above position in the software, we found that the feet elevation with upper body bending forward is the suitable posture for tackling the constipation
+
+conclusion:After analysing the above position in the software, we found that the feet elevation with upper body bending forward is the suitable posture for tackling the constipation
